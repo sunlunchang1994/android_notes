@@ -170,6 +170,13 @@
 |[Scanner](https://github.com/shouzhong/Scanner "Scanner")|身份证、银行卡、车牌号识别|||
 |[Android-Zxing](https://github.com/mylhyl/Android-Zxing "Android-Zxing")|扫二维码条形码（（简洁速度快））|||、
 |[QRCodeReaderView](https://github.com/dlazaro66/QRCodeReaderView "QRCodeReaderView")|二维码扫描|来自酷安的开源工具||
+## 网络相关
+|名称|说明|来源|星星|
+|------------|------------|------------|------------|
+|[RetrofitCache](https://github.com/yale8848/RetrofitCache "RetrofitCache")|Retrofit缓存，使用注解，挺好用|||
+|[Kalle](https://yanzhenjie.com/Kalle "Kalle")|yanzhenjie|||
+|[koush](https://github.com/koush "koush")|一个优秀的网络访问快速使用库，异常优秀，有缘找到|||
+|[Aria](https://github.com/AriaLyy/Aria "Aria")|目前最好用的下载工具，稳如老狗|||
 ## 数据库、存储
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -185,6 +192,16 @@
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
 |[JustWeEngine](https://github.com/lfkdsk/JustWeEngine/blob/master/info.md "JustWeEngine")|Android游戏框架|||
+## 人工智能相关
+|名称|说明|来源|星星|
+|------------|------------|------------|------------|
+|[AoE](https://github.com/didi/AoE/blob/master/Android/README.md "AoE")|手写识别图像转文字|||
+|[filament](https://github.com/google/filament "filament")|谷歌的虚拟现实相关|||
+## 其他工具类
+|名称|说明|来源|星星|
+|------------|------------|------------|------------|
+|[ShortcutBadger](https://github.com/leolin310148/ShortcutBadger "ShortcutBadger")|桌面角标神器（不用找了，就这个兼容型最好，星星最多）|||
+|[zt-zip](https://github.com/zeroturnaround/zt-zip "zt-zip")|zip压缩|||
 ## 其他工具集合（别人收集的）
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
