@@ -21,4 +21,14 @@
 | [附带选择的editText,类似simplen,popupWindows选择](https://github.com/tasomaniac/EmailAutoCompleteTextView "附带选择的editText,类似simplen,popupWindows选择")  |   |   |   |
 |   [日历翻页的textView](https://github.com/xenione/tab-digit "日历翻页的textView")|   |   |   |
 |   [跑马灯](https://github.com/sunfusheng/MarqueeView "跑马灯")|   |   |  4k |
-
+## RecyclerView、ListView、Adapter
+|名称|说明|来源|星星|
+| ------------ | ------------ | ------------ | ------------ |
+| [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper "BaseRecyclerViewAdapterHelper")  | 最强大完善的adapter,没有之一[使用教程](https://www.jianshu.com/p/b343fcff51b0 "使用教程")  |   | 18.9k  |
+| [RecyclerView分割线](https://github.com/Fondesa/RecyclerViewDivider "RecyclerView分割线")  | 来自酷安开源协议 |   |   |
+|  [异常优秀的item滑动控件，可实现二楼效果，异常流畅，爱不释手](https://github.com/daimajia/AndroidSwipeLayout "异常优秀的item滑动控件，可实现二楼效果，异常流畅，爱不释手") |   |   |   |
+|  [所有list、grid、recyclerview，分割线效果集合3.6万星星](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/List-Grid.md "所有list、grid、recyclerview，分割线效果集合") | 来自awesome-android-ui github最强大的开源项目收集者|   |  36K|
+|  [RecyclerView分割线垂直加水平](https://github.com/yqritc/RecyclerView-FlexibleDivider "RecyclerView分割线垂直加水平") |   |   |   |
+|  [无限树状结构列表视图](https://github.com/bmelnychuk/AndroidTreeView "无限树状结构列表视图") |   |   |   |
+| [recyclerview集成侧滑拖动、添加、长按移动、扩展位置于一身，极其强大](https://github.com/h6ah4i/android-advancedrecyclerview "recyclerview集成侧滑拖动、添加、长按移动、扩展位置于一身，极其强大")  |   |   |   |
+|  [类似最近任务的效果](https://github.com/ZieIony/MaterialRecents "类似最近任务的效果") |   |   |   |
