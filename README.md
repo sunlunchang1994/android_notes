@@ -6,6 +6,7 @@
 |[android-common](https://github.com/litesuits/android-common "android-common")||||
 |[AndroidUtils](//https://github.com/wanglijun93/AndroidUtils "AndroidUtils")||||
 |[Box](https://github.com/lany192/Box "Box")|基础开发工具类box||||
+|[RxTool-Wiki](https://github.com/tamsiree/RxTool/wiki/RxTool-Wiki "RxTool-Wiki")|RxUtils工具类|||
 ## TextView
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -34,6 +35,8 @@
 |[MaterialRecents](https://github.com/ZieIony/MaterialRecents "MaterialRecents")|类似最近任务的效果|||
 |[DynamicGrid](https://github.com/askerov/DynamicGrid "DynamicGrid")|类似桌面app图标的拖动效果|||
 |[PathLayoutManager](https://github.com/Ifxcyr/PathLayoutManager "PathLayoutManager")|带path效果的RecyclerView|||
+|[StickyItemDecoration](https://github.com/oubowu/StickyItemDecoration "StickyItemDecoration")|头部粘性视图|||
+|[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout "SmartRefreshLayout")|很强大的下拉刷新组件（BLing）（有扩展，推荐多个优秀开源工具）||19.5k|
 ## 按钮
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -177,6 +180,7 @@
 |[Kalle](https://yanzhenjie.com/Kalle "Kalle")|yanzhenjie|||
 |[koush](https://github.com/koush "koush")|一个优秀的网络访问快速使用库，异常优秀，有缘找到|||
 |[Aria](https://github.com/AriaLyy/Aria "Aria")|目前最好用的下载工具，稳如老狗|||
+|[RxEasyHttp](http://p.codekk.com/detail/Android/zhou-you/RxEasyHttp "RxEasyHttp")|优秀的网络访问框架|||
 ## 数据库、存储
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -184,6 +188,7 @@
 |[objectBox](https://github.com/objectbox/objectbox-java "objectBox")|NoSql 非常好用，跟greenDAO出自一家|||
 |[greenDAO](https://github.com/greenrobot/greenDAO "greenDAO")|不用我多说了|||
 |[android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher "android-database-sqlcipher")|很牛逼的SQL|||
+|[FastSharedPreferences](https://github.com/JeremyLiao/FastSharedPreferences "FastSharedPreferences")|LiveEventBus同一开发者|||
 ## Root
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -202,11 +207,24 @@
 |------------|------------|------------|------------|
 |[ShortcutBadger](https://github.com/leolin310148/ShortcutBadger "ShortcutBadger")|桌面角标神器（不用找了，就这个兼容型最好，星星最多）|||
 |[zt-zip](https://github.com/zeroturnaround/zt-zip "zt-zip")|zip压缩|||
+|[AlipayZeroSdk](https://github.com/fython/AlipayZeroSdk "AlipayZeroSdk")|支付宝转账界面库|||
+|[Xpatch](https://github.com/WindySha/Xpatch "Xpatch")|打桩app（天秀）|||
+|[retrofit-mock](https://github.com/JeremyLiao/retrofit-mock "retrofit-mock")|Retrofit mock 利器，解决接口联调没有数据的烦恼。|||
+|[camerakit-android](https://github.com/CameraKit/camerakit-android "camerakit-android")|自定义相机拍照录像|||
+|[StopApp](https://github.com/XYScience/StopApp "StopApp")|停止app|||
+|[walle](https://github.com/Meituan-Dianping/walle "walle")|打包神器|||
+|[ProcessPhoenix](https://github.com/JakeWharton/ProcessPhoenix "ProcessPhoenix")|重新启动应用程序|||
+|[CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash "CustomActivityOnCrash")|自定义activity异常处理|||
+|[RxTool-Wiki](https://github.com/tamsiree/RxTool/wiki/RxTool-Wiki "RxTool-Wiki")|RxUtils工具类|||
+|[BaseProject](https://github.com/fly803/BaseProject "BaseProject")|基础项目结构，包含多个优秀工具类|||
+|[Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary "Android-ZBLibrary")|比较优秀的mvp框架，包含多个组件，万能自定义view|||
+
 ## 其他工具集合（别人收集的）
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
 |[awesome-android-ui](https://github.com/wasabeef/awesome-android-ui "awesome-android-ui")||||
 |[android-open-project](https://github.com/Trinea/android-open-project "android-open-project")|安卓优秀开源项目地址|||
+|[ShareSomeSitesAndTools](https://github.com/jianshijiuyou/ShareSomeSitesAndTools "ShareSomeSitesAndTools")|一位优秀安卓开发者手机的资料|||
 ## 各路大神
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -221,8 +239,43 @@
 |[Romain Guy](https://github.com/romainguy "Romain Guy")|Android team 成员(2013.10 已离开 Android team，仍在 Google)Github 地址：[https://github.com/romainguy](https://github.com/romainguy)代表作：ViewServer主页：[http://www.curious-creature.org/category/android/](http://www.curious-creature.org/category/android/)個人攝影作品：[http://www.flickr.com/photos/romainguy](http://www.flickr.com/photos/romainguy)|||
 |[sephiroth74](https://github.com/sephiroth74 "sephiroth74")|就职于 Aviary.comGithub 地址：[https://github.com/sephiroth74](https://github.com/sephiroth74)代表作：ImageViewZoom，HorizontalVariableListView，AndroidWheel，purePDF主页：[http://www.sephiroth.it/](http://www.sephiroth.it/)|||
 |[Cyril Mottier](https://github.com/cyrilmottier "Cyril Mottier")|Google 开发者专家认证，发布一些 Android 技巧及文章Github 地址：[https://github.com/cyrilmottier](https://github.com/cyrilmottier)代表作：GreenDroid，Polaris主页：[http://cyrilmottier.com/](http://cyrilmottier.com/)|||
+|[JeremyLiao](https://github.com/JeremyLiao "JeremyLiao")|LiveDataBus开发者|||
+|[codekk](http://p.codekk.com/ "codekk")|专门收集第三方优秀框架的大神|||
+|其他大神|[@张鸿洋](https://github.com/hongyangAndroid) [@扔物线](https://github.com/rengwuxian) [@drakeet](https://github.com/drakeet) [@代码家](https://github.com/daimajia) [@程序亦非猿](https://github.com/AlanCheen) [@小鄧子](https://github.com/SmartDengg) [@Jude95](https://github.com/Jude95) [@泡在网上编代码](http://weibo.com/u/2711441293?topnav=1&wvr=6&topsug=1&is_all=1)|||
 ## 各大公司
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
 |[Square](https://github.com/square "Square")|有态度有良心的企业，很多不错的分享Github 地址：[https://github.com/square](https://github.com/square)代表作：okhttp、fest-android，android-times-square、picasso、dagger、spoon 等等;主页：[http://square.github.io/](http://square.github.io/)|||
 |[Inmite s.r.o.](https://github.com/inmite "Inmite s.r.o.")|Github 地址：[https://github.com/inmite](https://github.com/inmite)代表作：android-styled-dialogs，android-grid-wichterle，android-selector-chapek;主页：[http://www.inmite.eu/](http://www.inmite.eu/)|||
+## 学习资料
+|名称|说明|来源|星星|
+|------------|------------|------------|------------|
+|[Android](https://github.com/open-android/Android "Android")|Kotlin视频学习以及多种源码解析视频|||
+|[OuNews](https://github.com/oubowu/OuNews "OuNews")|新闻客户端提供接口|||
+|[AndroidOfferKiller](https://github.com/Blankj/AndroidOfferKiller "AndroidOfferKiller")|Offer收割机|||
+## 使用笔记
+#### Androidstudio 查看错误 gradlew compileDebugJavaWithJavac --stacktrace
+#### 安卓首行缩进 \u3000\u3000
+#### 安卓开发通过adb查看当前activity名称 adb shell dumpsys activity | find "mFoc"
+#### mysql记录
+
+
+    truncate table books 清空表 使自增长从1开始
+    
+    SELECT * FROM books WHERE bookId > 10 查询大于某个范围的数
+    
+    SELECT * FROM books GROUP BY type 分组查询
+    
+    queryObject.setMaxResults(number);在hibernate中查询数据返回最大个数时使用此条语句
+    
+    SELECT * FROM apply  ORDER BY  RAND() LIMIT 7 mySql 从数据库随机获取几条数据
+#### Android开发AlertDialog使用笔记
+
+
+      由于Android兼容包和AndroidX更新较为频繁，所以更改alertDialog来实现功能某些java不能实现或实现相对麻烦的功能的方法不合适，正确使用姿势为继承Theme.AppCompat.Dialog.Alert的方法来更改其属性的方式来实现某些功能，更改title和Button必须遵循远程AlertDialog的规则：title和Button的id和class必须相对应
+     <!--       <item name="android:windowMinWidthMajor">100%</item>设置窗口的最小宽度  竖屏
+            <item name="android:windowMinWidthMinor">50%</item>设置窗口最小宽度 横屏
+        <item name="windowFixedWidthMajor">@null</item>
+            <item name="windowFixedWidthMinor">@null</item>
+            <item name="windowFixedHeightMajor">@null</item>
+            <item name="windowFixedHeightMinor">@null</item>-->
