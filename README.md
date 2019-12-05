@@ -1,7 +1,7 @@
 # Android开发笔记
 ## 工具类
 |名称|说明|来源|星星|
-| ------------ | ------------ | ------------ |  |
+| ------------ | ------------ | ------------ | ------------ |
 |   |   |   |   |
 |[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode "AndroidUtilCode")|目前安卓最全的工具类|   |25k|
 |[android-common](https://github.com/litesuits/android-common "android-common")|   |   |   |
@@ -9,7 +9,7 @@
 |[Box](https://github.com/lany192/Box "Box")|基础开发工具类box|   |   |   |
 ## TextView
 |名称|说明|来源|星星|
-| ------------ | ------------ | ------------ |  |
+| ------------ | ------------ | ------------ | ------------ |
 |[跑马灯效果textview](https://github.com/gongwen/MarqueeViewLibrary "跑马灯效果textview")|   |  来自酷安开源协议 |   |
 |[带动画的textview](https://github.com/hanks-zyh/HTextView "带动画的textview")|   |  来自酷安开源协议  |   |
 |[EllipsizeTextView自定义省略号的textview](https://github.com/dinuscxj/EllipsizeTextView "EllipsizeTextView自定义省略号的textview") |   | 来自酷安开源协议   |   |
@@ -21,3 +21,4 @@
 | [附带选择的editText,类似simplen,popupWindows选择](https://github.com/tasomaniac/EmailAutoCompleteTextView "附带选择的editText,类似simplen,popupWindows选择")  |   |   |   |
 |   [日历翻页的textView](https://github.com/xenione/tab-digit "日历翻页的textView")|   |   |   |
 |   [跑马灯](https://github.com/sunfusheng/MarqueeView "跑马灯")|   |   |  4k |
+
