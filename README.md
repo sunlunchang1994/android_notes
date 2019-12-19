@@ -7,6 +7,7 @@
 |[AndroidUtils](//https://github.com/wanglijun93/AndroidUtils "AndroidUtils")||||
 |[Box](https://github.com/lany192/Box "Box")|基础开发工具类box||||
 |[RxTool-Wiki](https://github.com/tamsiree/RxTool/wiki/RxTool-Wiki "RxTool-Wiki")|RxUtils工具类|||
+|[StatusBarCompat](https://github.com/niorgai/StatusBarCompat "StatusBarCompat")|可能是实现方式标准的StatusBar工具类|||
 ## TextView
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -242,6 +243,7 @@
 |[JeremyLiao](https://github.com/JeremyLiao "JeremyLiao")|LiveDataBus开发者|||
 |[codekk](http://p.codekk.com/ "codekk")|专门收集第三方优秀框架的大神|||
 |其他大神|[@张鸿洋](https://github.com/hongyangAndroid) [@扔物线](https://github.com/rengwuxian) [@drakeet](https://github.com/drakeet) [@代码家](https://github.com/daimajia) [@程序亦非猿](https://github.com/AlanCheen) [@小鄧子](https://github.com/SmartDengg) [@Jude95](https://github.com/Jude95) [@泡在网上编代码](http://weibo.com/u/2711441293?topnav=1&wvr=6&topsug=1&is_all=1)|||
+|[AlanCheen](https://github.com/AlanCheen "AlanCheen")|程序亦非猿|||
 ## 各大公司
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
