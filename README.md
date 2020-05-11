@@ -226,6 +226,7 @@
 |[awesome-android-ui](https://github.com/wasabeef/awesome-android-ui "awesome-android-ui")||||
 |[android-open-project](https://github.com/Trinea/android-open-project "android-open-project")|安卓优秀开源项目地址|||
 |[ShareSomeSitesAndTools](https://github.com/jianshijiuyou/ShareSomeSitesAndTools "ShareSomeSitesAndTools")|一位优秀安卓开发者手机的资料|||
+|[所长smuyyh](https://github.com/smuyyh?tab=stars "所长smuyyh")|开发“任阅”电子书的大佬收集的库|||
 ## 各路大神
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
