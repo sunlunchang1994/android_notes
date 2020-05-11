@@ -245,6 +245,7 @@
 |[codekk](http://p.codekk.com/ "codekk")|专门收集第三方优秀框架的大神|||
 |其他大神|[@张鸿洋](https://github.com/hongyangAndroid) [@扔物线](https://github.com/rengwuxian) [@drakeet](https://github.com/drakeet) [@代码家](https://github.com/daimajia) [@程序亦非猿](https://github.com/AlanCheen) [@小鄧子](https://github.com/SmartDengg) [@Jude95](https://github.com/Jude95) [@泡在网上编代码](http://weibo.com/u/2711441293?topnav=1&wvr=6&topsug=1&is_all=1)|||
 |[AlanCheen](https://github.com/AlanCheen "AlanCheen")|程序亦非猿|||
+|[smuyyh](https://smuyyh.top/ "smuyyh")|所长|||
 ## 各大公司
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -256,6 +257,10 @@
 |[Android](https://github.com/open-android/Android "Android")|Kotlin视频学习以及多种源码解析视频|||
 |[OuNews](https://github.com/oubowu/OuNews "OuNews")|新闻客户端提供接口|||
 |[AndroidOfferKiller](https://github.com/Blankj/AndroidOfferKiller "AndroidOfferKiller")|Offer收割机|||
+## 文章
+|名称|说明|来源|星星|
+|------------|------------|------------|------------|
+|[Android开发者忠告](https://smuyyh.top/2016/11/08/android-18-advice/#more "Android开发者忠告")|一个Android开发者的忠告，有很多优秀的文章|||
 ## 使用笔记
 #### Androidstudio 查看错误 gradlew compileDebugJavaWithJavac --stacktrace
 #### 安卓首行缩进 \u3000\u3000
