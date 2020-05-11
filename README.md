@@ -198,6 +198,7 @@
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
 |[JustWeEngine](https://github.com/lfkdsk/JustWeEngine/blob/master/info.md "JustWeEngine")|Android游戏框架|||
+|[Rajawali](https://github.com/Rajawali/Rajawali "Rajawali")|Android游戏框架|||
 ## 人工智能相关
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
