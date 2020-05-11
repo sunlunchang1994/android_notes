@@ -107,6 +107,7 @@
 |[uCrop](https://github.com/Yalantis/uCrop "uCrop")|图片裁剪|来自酷安的开源工具||
 |[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view "subsampling-scale-image-view")|类似大内存图片浏览浏览|来自酷安的开源工具||
 |[glide-transformations](https://github.com/wasabeef/glide-transformations "glide-transformations")|基于glide的图形效果  如形状模糊圆形|来自酷安的开源工具||
+|[GlideFaceDetectionTransformation](https://github.com/aryarohit07/GlideFaceDetectionTransformation "GlideFaceDetectionTransformation")|基于glide的人像识别居中效果||
 |[CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView "CustomShapeImageView")|自定义形状的image根据imageview改变|来自酷安的开源工具||
 ## 阴影
 |名称|说明|来源|星星|
