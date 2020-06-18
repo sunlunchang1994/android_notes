@@ -88,6 +88,7 @@
 |[MaterialRecents](https://github.com/ZieIony/MaterialRecents "MaterialRecents")|类似最近任务的效果|||
 |[其他的优秀控件，只有你想不到的3.6万星星](https://github.com/DanielMartinus/konfetti "其他的优秀控件，只有你想不到的3.6万星星")||||
 |[flexbox-layout](https://github.com/google/flexbox-layout "flexbox-layout")|谷歌推出的类似css的布局效果，太秀了|||
+|[ConsecutiveScrollerLayout](https://github.com/donkingliang/ConsecutiveScroller "ConsecutiveScrollerLayout")|可以同时嵌套多个滑动布局(RecyclerView、WebView、ScrollView等)和普通控件|||
 ## ViewPager、画廊、tableView
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
