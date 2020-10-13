@@ -53,7 +53,7 @@
 |[XPopup](https://github.com/li-xiaojun/XPopup "XPopup")|强大的Android对话框|||
 |[bottomsheet](https://github.com/Flipboard/bottomsheet "bottomsheet")|底部弹出视图第三方框架|||
 |[material-dialogs](https://github.com/afollestad/material-dialogs "material-dialogs")|MD对话框|||
-|[BasePopup](https://github.com/razerdp/BasePopup "BasePopup")|基础的PopupWindows|||
+|[BasePopup](https://github.com/razerdp/BasePopup "BasePopup")|基础的PopupWindows|功能强大，都是基础实现，拓展性强||
 ## 滚轮、选择器
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -110,6 +110,7 @@
 |[glide-transformations](https://github.com/wasabeef/glide-transformations "glide-transformations")|基于glide的图形效果  如形状模糊圆形|来自酷安的开源工具||
 |[GlideFaceDetectionTransformation](https://github.com/aryarohit07/GlideFaceDetectionTransformation "GlideFaceDetectionTransformation")|基于glide的人像识别居中效果||
 |[CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView "CustomShapeImageView")|自定义形状的image根据imageview改变|来自酷安的开源工具||
+|[朋友圈图片网格](https://github.com/razerdp/PhotoContents "PhotoContents")|自定义形状的image根据imageview改变|来自酷安的开源工具||
 ## 阴影
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -126,6 +127,7 @@
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
 |[MPAndroidChart](https://p.codekk.com/detail/Android/PhilJay/MPAndroidChart "MPAndroidChart")|强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、网状图等；支持图的拖拽缩放；支持 Android 2.2 以上，支持横纵轴缩放，多指缩放，展现动画、高亮、保存到 sdcard、从文件读取图表|||
+|[甜甜圈饼状图](https://github.com/razerdp/AnimatedPieView "AnimatedPieView")|各种样式饼状图|||
 ## Fragment
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -231,6 +233,12 @@
 |[ShareSomeSitesAndTools](https://github.com/jianshijiuyou/ShareSomeSitesAndTools "ShareSomeSitesAndTools")|一位优秀安卓开发者手机的资料|||
 |[所长smuyyh](https://github.com/smuyyh?tab=stars "所长smuyyh")|开发“任阅”电子书的大佬收集的库|||
 |[aritraroy](https://github.com/aritraroy/UltimateAndroidReference "aritraroy")|上述的拓展、动画、布局、网络、加载、学习等集合|||
+|[Android串口开发工具](https://code.google.com/archive/p/android-serialport-api "Android串口开发工具")|APP|||
+## JAVA后台
+|名称|说明|来源|星星|
+|------------|------------|------------|------------|
+|[java商城系统](https://github.com/macrozheng/mall "java商城系统")|非常完善，所有功能齐全|||
+
 ## 各路大神
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
