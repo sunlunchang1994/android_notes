@@ -94,6 +94,7 @@
 |------------|------------|------------|------------|
 |[PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView "PageIndicatorView")|pager指示器  强大的功能|来自酷安的开源工具||
 |[ViewPager和tabView集合3.6万星星太秀了](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/ViewPager.md "ViewPager和tabView集合3.6万星星太秀了")||||
+|[banner](https://github.com/youth5201314/banner "banner")|好用banner控件 10.5+星|||
 ## ImageView、Bitmap、图片加载等
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -178,6 +179,7 @@
 |[Scanner](https://github.com/shouzhong/Scanner "Scanner")|身份证、银行卡、车牌号识别|||
 |[Android-Zxing](https://github.com/mylhyl/Android-Zxing "Android-Zxing")|扫二维码条形码（（简洁速度快））|||、
 |[QRCodeReaderView](https://github.com/dlazaro66/QRCodeReaderView "QRCodeReaderView")|二维码扫描|来自酷安的开源工具||
+|[CZXing](https://github.com/devilsen/CZXing "CZXing")|二维码扫描|据说可以媲美微信扫码速度||
 ## 网络相关
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -186,6 +188,8 @@
 |[koush](https://github.com/koush "koush")|一个优秀的网络访问快速使用库，异常优秀，有缘找到|||
 |[Aria](https://github.com/AriaLyy/Aria "Aria")|目前最好用的下载工具，稳如老狗|||
 |[RxEasyHttp](http://p.codekk.com/detail/Android/zhou-you/RxEasyHttp "RxEasyHttp")|优秀的网络访问框架|||
+|[AwesomeDownloader-Android](https://github.com/AManCallJiang/AwesomeDownloader-Android "AwesomeDownloader-Android")|基于OkHttp和kotlin协程实现的下载器|||
+|[NettyIM](https://github.com/mrchengwenlong/NettyIM "NettyIM")|基于Netty+TCP+Protobuf+okhttp设计模式的聊天SDK|||
 ## 数据库、存储
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -233,7 +237,8 @@
 |[ShareSomeSitesAndTools](https://github.com/jianshijiuyou/ShareSomeSitesAndTools "ShareSomeSitesAndTools")|一位优秀安卓开发者手机的资料|||
 |[所长smuyyh](https://github.com/smuyyh?tab=stars "所长smuyyh")|开发“任阅”电子书的大佬收集的库|||
 |[aritraroy](https://github.com/aritraroy/UltimateAndroidReference "aritraroy")|上述的拓展、动画、布局、网络、加载、学习等集合|||
-|[Android串口开发工具](https://code.google.com/archive/p/android-serialport-api "Android串口开发工具")|APP|||
+|[android-serialport-api](https://code.google.com/archive/p/android-serialport-api "Android串口开发工具")|Android串口开发工具|||
+|[ArticleGenerator](https://github.com/AManCallJiang/ArticleGenerator "名人名言拉取")|名人名言拉取|||
 ## JAVA后台
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
