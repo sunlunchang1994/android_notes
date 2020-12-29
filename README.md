@@ -38,6 +38,7 @@
 |[PathLayoutManager](https://github.com/Ifxcyr/PathLayoutManager "PathLayoutManager")|带path效果的RecyclerView|||
 |[StickyItemDecoration](https://github.com/oubowu/StickyItemDecoration "StickyItemDecoration")|头部粘性视图|||
 |[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout "SmartRefreshLayout")|很强大的下拉刷新组件（BLing）（有扩展，推荐多个优秀开源工具）||19.5k|
+|[RepeatLayoutManager](https://github.com/jiarWang/RepeatLayoutManager "循环RecyclerView")|鸿神推荐|||
 ## 按钮
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -112,6 +113,7 @@
 |[GlideFaceDetectionTransformation](https://github.com/aryarohit07/GlideFaceDetectionTransformation "GlideFaceDetectionTransformation")|基于glide的人像识别居中效果||
 |[CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView "CustomShapeImageView")|自定义形状的image根据imageview改变|来自酷安的开源工具||
 |[朋友圈图片网格](https://github.com/razerdp/PhotoContents "PhotoContents")|自定义形状的image根据imageview改变|来自酷安的开源工具||
+|[PictureSelector](https://github.com/jiarWang/PictureSelector "图片视频音频选择器")|鸿神推荐|||
 ## 阴影
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -243,6 +245,7 @@
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
 |[java商城系统](https://github.com/macrozheng/mall "java商城系统")|非常完善，所有功能齐全|||
+|[PlanetView](https://github.com/jiarWang/PlanetView "类似soul星球")|鸿神推荐|||
 
 ## 各路大神
 |名称|说明|来源|星星|
