@@ -92,6 +92,7 @@
 |[其他的优秀控件，只有你想不到的3.6万星星](https://github.com/DanielMartinus/konfetti "其他的优秀控件，只有你想不到的3.6万星星")||||
 |[flexbox-layout](https://github.com/google/flexbox-layout "flexbox-layout")|谷歌推出的类似css的布局效果，太秀了|||
 |[ConsecutiveScrollerLayout](https://github.com/donkingliang/ConsecutiveScroller "ConsecutiveScrollerLayout")|可以同时嵌套多个滑动布局(RecyclerView、WebView、ScrollView等)和普通控件|||
+|[SwipePanel](https://github.com/Blankj/SwipePanel "策划控件")|很优雅的策划控件|Blankj||
 ## ViewPager、画廊、tableView
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -233,6 +234,8 @@
 |[BaseProject](https://github.com/fly803/BaseProject "BaseProject")|基础项目结构，包含多个优秀工具类|||
 |[Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary "Android-ZBLibrary")|比较优秀的mvp框架，包含多个组件，万能自定义view|||
 |[Android官方最佳实例](https://github.com/android "Android官方最佳实例")|Android官方最佳实例|||
+|[好玩的东西](https://github.com/Blankj/awesome-comment "奇葩快速转换工具")|Blankj|Blankj||
+|[Android开发规范](https://github.com/Blankj/AndroidStandardDevelop "Android开发规范")|Blankj|Blankj||
 ## 其他工具集合（别人收集的）
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -248,7 +251,6 @@
 |------------|------------|------------|------------|
 |[java商城系统](https://github.com/macrozheng/mall "java商城系统")|非常完善，所有功能齐全|||
 |[PlanetView](https://github.com/jiarWang/PlanetView "类似soul星球")|鸿神推荐|||
-
 ## 各路大神
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
