@@ -39,6 +39,7 @@
 |[StickyItemDecoration](https://github.com/oubowu/StickyItemDecoration "StickyItemDecoration")|头部粘性视图|||
 |[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout "SmartRefreshLayout")|很强大的下拉刷新组件（BLing）（有扩展，推荐多个优秀开源工具）||19.5k|
 |[RepeatLayoutManager](https://github.com/jiarWang/RepeatLayoutManager "循环RecyclerView")|鸿神推荐|||
+|[parallaxdecoration](https://github.com/seagazer/parallaxdecoration "类似游戏背景的RecyclerView")|鸿神推荐，视觉差滚动|||
 ## 按钮
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
