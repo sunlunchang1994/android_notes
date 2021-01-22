@@ -165,6 +165,7 @@
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
 |[Effect](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Effect.md "Effect")|3.6万星星，各种模糊效果，各种破碎效果|||
+|[animlogoview](https://github.com/seagazer/animlogoview "animlogoview")|交互炸了系列，炫酷跳动的闪屏Logo标题（鸿神）|||
 ## 菜单
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
