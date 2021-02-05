@@ -41,6 +41,8 @@
 |[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout "SmartRefreshLayout")|很强大的下拉刷新组件（BLing）（有扩展，推荐多个优秀开源工具）||19.5k|
 |[RepeatLayoutManager](https://github.com/jiarWang/RepeatLayoutManager "循环RecyclerView")|鸿神推荐|||
 |[parallaxdecoration](https://github.com/seagazer/parallaxdecoration "类似游戏背景的RecyclerView")|鸿神推荐，视觉差滚动|||
+|[Skeleton](https://github.com/ethanhua/Skeleton "饿了么加载等待填充页面")|鸿神推荐|||
+
 ## 按钮
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -166,6 +168,7 @@
 |------------|------------|------------|------------|
 |[Effect](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Effect.md "Effect")|3.6万星星，各种模糊效果，各种破碎效果|||
 |[animlogoview](https://github.com/seagazer/animlogoview "animlogoview")|交互炸了系列，炫酷跳动的闪屏Logo标题（鸿神）|||
+|[SuperLike](https://github.com/Qiu800820/SuperLike "SuperLike")|点赞动画、鸿神推荐|||
 ## 菜单
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -252,6 +255,11 @@
 |------------|------------|------------|------------|
 |[java商城系统](https://github.com/macrozheng/mall "java商城系统")|非常完善，所有功能齐全|||
 |[PlanetView](https://github.com/jiarWang/PlanetView "类似soul星球")|鸿神推荐|||
+## Flutter
+|名称|说明|来源|星星|
+|------------|------------|------------|------------|
+|[flutter-go](https://github.com/alibaba/flutter-go "阿里的flutter基于flutter官方的demo")|鸿神推荐 阿里的flutter基于flutter官方的demo|||
+
 ## 各路大神
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
