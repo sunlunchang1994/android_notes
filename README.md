@@ -240,6 +240,9 @@
 |[Android官方最佳实例](https://github.com/android "Android官方最佳实例")|Android官方最佳实例|||
 |[好玩的东西](https://github.com/Blankj/awesome-comment "奇葩快速转换工具")|Blankj|Blankj||
 |[Android开发规范](https://github.com/Blankj/AndroidStandardDevelop "Android开发规范")|Blankj|Blankj||
+|[基于Xposed脱壳工具](https://gitee.com/Mkingm/MDEX.git "基于Xposed脱壳工具")|来自码云排行|||
+|[基于Xposed脱壳工具](https://gitee.com/Mkingm/MDEX.git "基于Xposed脱壳工具")|来自码云排行|||
+|[基于Xposed脱壳工具-ucrack](https://gitee.com/virjar/ucrack.git "基于Xposed脱壳工具-ucrack")|来自码云排行|||
 ## 其他工具集合（别人收集的）
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
