@@ -169,6 +169,7 @@
 |[Effect](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Effect.md "Effect")|3.6万星星，各种模糊效果，各种破碎效果|||
 |[animlogoview](https://github.com/seagazer/animlogoview "animlogoview")|交互炸了系列，炫酷跳动的闪屏Logo标题（鸿神）|||
 |[SuperLike](https://github.com/Qiu800820/SuperLike "SuperLike")|点赞动画、鸿神推荐|||
+|[PlanetView](https://gitee.com/sunlunchang/planet-view.git "类似soul星球")|鸿神推荐（源项目已经被删除，这是我克隆下来放在码云的）|||
 ## 菜单
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -257,7 +258,6 @@
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
 |[java商城系统](https://github.com/macrozheng/mall "java商城系统")|非常完善，所有功能齐全|||
-|[PlanetView](https://github.com/jiarWang/PlanetView "类似soul星球")|鸿神推荐|||
 ## Flutter
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
