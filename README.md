@@ -279,6 +279,7 @@
 |其他大神|[@张鸿洋](https://github.com/hongyangAndroid) [@扔物线](https://github.com/rengwuxian) [@drakeet](https://github.com/drakeet) [@代码家](https://github.com/daimajia) [@程序亦非猿](https://github.com/AlanCheen) [@小鄧子](https://github.com/SmartDengg) [@Jude95](https://github.com/Jude95) [@泡在网上编代码](http://weibo.com/u/2711441293?topnav=1&wvr=6&topsug=1&is_all=1)|||
 |[AlanCheen](https://github.com/AlanCheen "AlanCheen")|程序亦非猿|||
 |[smuyyh](https://smuyyh.top/ "smuyyh")|所长|||
+|[starRTC](https://gitee.com/starRTC "starRTC")|各种聊天物联网大佬|||
 ## 各大公司
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
