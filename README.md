@@ -170,6 +170,7 @@
 |[animlogoview](https://github.com/seagazer/animlogoview "animlogoview")|交互炸了系列，炫酷跳动的闪屏Logo标题（鸿神）|||
 |[SuperLike](https://github.com/Qiu800820/SuperLike "SuperLike")|点赞动画、鸿神推荐|||
 |[PlanetView](https://gitee.com/sunlunchang/planet-view.git "类似soul星球")|鸿神推荐（源项目已经被删除，这是我克隆下来放在码云的）|||
+|[AndroidWM](https://github.com/huangyz0918/AndroidWM "水印效果")|水印效果|||
 ## 菜单
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
