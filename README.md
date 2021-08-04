@@ -283,6 +283,7 @@
 |[AlanCheen](https://github.com/AlanCheen "AlanCheen")|程序亦非猿|||
 |[smuyyh](https://smuyyh.top/ "smuyyh")|所长|||
 |[starRTC](https://gitee.com/starRTC "starRTC")|各种聊天物联网大佬|||
+|[hannesa2](https://github.com/hannesa2 "hannesa2")|国外大佬，谷歌VR等demo|||
 ## 各大公司
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
