@@ -95,6 +95,7 @@
 |[flexbox-layout](https://github.com/google/flexbox-layout "flexbox-layout")|谷歌推出的类似css的布局效果，太秀了|||
 |[ConsecutiveScrollerLayout](https://github.com/donkingliang/ConsecutiveScroller "ConsecutiveScrollerLayout")|可以同时嵌套多个滑动布局(RecyclerView、WebView、ScrollView等)和普通控件|||
 |[SwipePanel](https://github.com/Blankj/SwipePanel "策划控件")|很优雅的策划控件|Blankj||
+|[PanelSwitchHelper](https://github.com/YummyLau/PanelSwitchHelper "输入法平滑过渡")|输入法与功能面板（比如表情面板/更多选项面板等）的切换过程中保持平滑过渡|Github||
 ## ViewPager、画廊、tableView
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
