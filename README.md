@@ -58,7 +58,8 @@
 |[XPopup](https://github.com/li-xiaojun/XPopup "XPopup")|强大的Android对话框|||
 |[bottomsheet](https://github.com/Flipboard/bottomsheet "bottomsheet")|底部弹出视图第三方框架|||
 |[material-dialogs](https://github.com/afollestad/material-dialogs "material-dialogs")|MD对话框|||
-|[BasePopup](https://github.com/razerdp/BasePopup "BasePopup")|基础的PopupWindows|功能强大，都是基础实现，拓展性强||
+|[BasePopup](https://github.com/razerdp/BasePopup "BasePopup")|基础的PopupWindows|功能强大，都是基础实现，拓展性强|||
+|[悬浮窗框架](https://github.com/princekin-f/EasyFloat "EasyFloat")|悬浮窗框架|浮窗从未如此简单|来自github首页推荐||
 ## 滚轮、选择器
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -286,6 +287,7 @@
 |[smuyyh](https://smuyyh.top/ "smuyyh")|所长|||
 |[starRTC](https://gitee.com/starRTC "starRTC")|各种聊天物联网大佬|||
 |[hannesa2](https://github.com/hannesa2 "hannesa2")|国外大佬，谷歌VR等demo|||
+|[AndroidDevTools](https://github.com/inferjay/AndroidDevTools "inferjay")|Android开发工具，PhotoShop等等工具|||
 ## 各大公司
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
