@@ -165,7 +165,7 @@
 |[GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer "GSYVideoPlayer")|强大的视频播放器|||
 |[PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer "PLDroidPlayer")|七牛的视频播放库|||
 |[Vienna](https://github.com/Curzibn/Vienna "Vienna")|简单的录音api|||
-|[JZVideo](https://github.com/Jzvd/JZVideo")|JZVideo，封装的比较全面，灵活，推荐使用这个|||
+|[JZVideo](https://github.com/Jzvd/JZVideo "JZVideo")|JZVideo，封装的比较全面，灵活，推荐使用这个|||
 ## 效果
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
