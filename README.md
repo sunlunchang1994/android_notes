@@ -174,7 +174,6 @@
 |[YCVideoPlayer](https://github.com/yangchong211/YCVideoPlayer "YCVideoPlayer")|YCVideoPlayer，封装的较为全面，更新频繁|||
 |[StarrySky](https://github.com/EspoirX/StarrySky "StarrySky")|一个看起来挺好用的音频播放器|||
 
-
 ## 效果
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -257,6 +256,8 @@
 |[基于Xposed脱壳工具](https://gitee.com/Mkingm/MDEX.git "基于Xposed脱壳工具")|来自码云排行|||
 |[基于Xposed脱壳工具](https://gitee.com/Mkingm/MDEX.git "基于Xposed脱壳工具")|来自码云排行|||
 |[基于Xposed脱壳工具-ucrack](https://gitee.com/virjar/ucrack.git "基于Xposed脱壳工具-ucrack")|来自码云排行|||
+|[camera-samples](https://github.com/android/camera-samples "camera-samples")|Android官方的相机演示程序|||
+
 ## 其他工具集合（别人收集的）
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
