@@ -9,6 +9,8 @@
 |[RxTool-Wiki](https://github.com/tamsiree/RxTool/wiki/RxTool-Wiki "RxTool-Wiki")|RxUtils工具类|||
 |[StatusBarCompat](https://github.com/niorgai/StatusBarCompat "StatusBarCompat")|可能是实现方式标准的StatusBar工具类|||
 |[hutool](https://github.com/looly/hutool "hutool")|java工具类 很全，适用于java后台|||
+|[YCNotification](https://github.com/yangchong211/YCNotification "YCNotification")|通知栏工具类 兼容Android8.0|来自作者yangchong211||
+
 ## TextView
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
