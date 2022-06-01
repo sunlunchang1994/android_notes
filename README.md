@@ -172,6 +172,8 @@
 |[Vienna](https://github.com/Curzibn/Vienna "Vienna")|简单的录音api|||
 |[JZVideo](https://github.com/Jzvd/JZVideo "JZVideo")|JZVideo，封装的比较全面，灵活，推荐使用这个|||
 |[YCVideoPlayer](https://github.com/yangchong211/YCVideoPlayer "YCVideoPlayer")|YCVideoPlayer，封装的较为全面，更新频繁|||
+|[StarrySky](https://github.com/EspoirX/StarrySky "StarrySky")|一个看起来挺好用的音频播放器|||
+
 
 ## 效果
 |名称|说明|来源|星星|
