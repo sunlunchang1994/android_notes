@@ -130,6 +130,7 @@
 |------------|------------|------------|------------|
 |[ShadowLayout](https://github.com/lihangleo2/ShadowLayout "ShadowLayout")|阴影|||
 |[ArcLayout](https://github.com/florent37/ArcLayout "ArcLayout")|弧形布局带阴影|||
+|[YCEfficient](https://github.com/yangchong211/YCEfficient "YCEfficient")|非常灵活的阴影效果|来自yangchong211||
 ## 动画
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
