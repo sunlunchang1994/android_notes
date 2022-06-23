@@ -125,6 +125,8 @@
 |[CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView "CustomShapeImageView")|自定义形状的image根据imageview改变|来自酷安的开源工具||
 |[朋友圈图片网格](https://github.com/razerdp/PhotoContents "PhotoContents")|自定义形状的image根据imageview改变|来自酷安的开源工具||
 |[PictureSelector](https://github.com/jiarWang/PictureSelector "图片视频音频选择器")|鸿神推荐|||
+|[LowPoly](https://github.com/zzhoujay/LowPoly "LowPoly风格图片生成器")|网上找的|Low Poly即低多边形，和提高图片精度相反||
+
 ## 阴影
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
