@@ -108,7 +108,7 @@
 |[ViewPager和tabView集合3.6万星星太秀了](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/ViewPager.md "ViewPager和tabView集合3.6万星星太秀了")||||
 |[banner](https://github.com/youth5201314/banner "banner")|好用banner控件 10.5+星|||
 ## ImageView、Bitmap、图片加载等
-| 名称| 星星 |
+|名称|说明|来源|星星|
 |------------|------------|------------|------------|
 | [CircleImageView](https://github.com/hdodenhof/CircleImageView "CircleImageView")| 圆形imgae|| |
 | [Luban](https://github.com/Curzibn/Luban "Luban") | 图片压缩工具||      |
