@@ -1,16 +1,15 @@
 # 毕生功力
 ## 工具类
-|名称|说明|来源|星星|
-|------------|------------|------------|------------|
-|[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode "AndroidUtilCode")|目前安卓最全的工具类||25k|
-|[android-common](https://github.com/litesuits/android-common "android-common")||||
-|[AndroidUtils](//https://github.com/wanglijun93/AndroidUtils "AndroidUtils")||||
-|[Box](https://github.com/lany192/Box "Box")|基础开发工具类box||||
-|[RxTool-Wiki](https://github.com/tamsiree/RxTool/wiki/RxTool-Wiki "RxTool-Wiki")|RxUtils工具类|||
-|[StatusBarCompat](https://github.com/niorgai/StatusBarCompat "StatusBarCompat")|可能是实现方式标准的StatusBar工具类|||
-|[hutool](https://github.com/looly/hutool "hutool")|java工具类 很全，适用于java后台|||
-|[YCNotification](https://github.com/yangchong211/YCNotification "YCNotification")|通知栏工具类 兼容Android8.0|来自作者yangchong211||
-|[AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize "AndroidAutoSize")|屏幕适配方案终极版|今日头条屏幕适配方案的升级版||
+| 名称                                                                                  | 说明                                | 来源                         | 星星 |
+| ------------------------------------------------------------------------------------- | ----------------------------------- | ---------------------------- | ---- |
+| [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode "AndroidUtilCode")        | 目前安卓最全的工具类                |                              | 25k  |
+| [android-common](https://github.com/litesuits/android-common "android-common")        |                                     |                              |      |
+| [AndroidUtils](//https://github.com/wanglijun93/AndroidUtils "AndroidUtils")          |                                     |                              |      |
+| [RxTool-Wiki](https://github.com/tamsiree/RxTool/wiki/RxTool-Wiki "RxTool-Wiki")      | RxUtils工具类                       |                              |      |
+| [StatusBarCompat](https://github.com/niorgai/StatusBarCompat "StatusBarCompat")       | 可能是实现方式标准的StatusBar工具类 |                              |      |
+| [hutool](https://github.com/looly/hutool "hutool")                                    | java工具类 很全，适用于java后台     |                              |      |
+| [YCNotification](https://github.com/yangchong211/YCNotification "YCNotification")     | 通知栏工具类 兼容Android8.0         | 来自作者yangchong211         |      |
+| [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize "AndroidAutoSize") | 屏幕适配方案终极版                  | 今日头条屏幕适配方案的升级版 |      |
 
 ## TextView
 |名称|说明|来源|星星|
@@ -88,7 +87,7 @@
 |[ResideLayout](https://github.com/kyze8439690/ResideLayout "ResideLayout")|开门布局|||
 |[AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout "AndroidSwipeLayout")|异常优秀的item滑动控件，可实现二楼效果，异常流畅，爱不释手|||
 |[android_maskable_layout](https://github.com/christophesmet/android_maskable_layout "android_maskable_layout")|遮罩布局，可实现任意形状|||
-|[ExpandableLayout](ExpandableLayout](https://github.com/traex/ExpandableLayout "ExpandableLayout")|第三方的扩展布局类似原生的ExpandableListView|||
+|[ExpandableLayout](https://github.com/traex/ExpandableLayout "ExpandableLayout")|第三方的扩展布局类似原生的ExpandableListView|||
 |[ShowcaseView](https://github.com/amlcurran/ShowcaseView "ShowcaseView")|首次使用提示，新手指导|||
 |[Slidr](https://github.com/r0adkll/Slidr "Slidr")|拖动界面返回|||
 |[PhysicsLayout](https://github.com/Jawnnypoo/PhysicsLayout "PhysicsLayout")|物理引擎视图|||
@@ -109,31 +108,32 @@
 |[ViewPager和tabView集合3.6万星星太秀了](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/ViewPager.md "ViewPager和tabView集合3.6万星星太秀了")||||
 |[banner](https://github.com/youth5201314/banner "banner")|好用banner控件 10.5+星|||
 ## ImageView、Bitmap、图片加载等
-|名称|说明|来源|星星|
+| 名称| 星星 |
 |------------|------------|------------|------------|
-|[CircleImageView](https://github.com/hdodenhof/CircleImageView "CircleImageView")|圆形imgae|||
-|[Luban](https://github.com/Curzibn/Luban "Luban")|图片压缩工具|||
-|[Matisse](https://github.com/zhihu/Matisse "Matisse")|图片选择器（知乎）|||
-|[ImagePicker](https://github.com/jeasonlzy/ImagePicker "ImagePicker")|图片选择器（仿微信）|||
-|[RoundedImageView](https://github.com/vinc3m1/RoundedImageView "RoundedImageView")|强大的圆形imageview|||
-|[PhotoView](https://github.com/chrisbanes/PhotoView "PhotoView")|相片视图|||
-|[GalleryFinal](https://github.com/pengjianbo/GalleryFinal "GalleryFinal")|图片选择库|||
-|[各种imageview效果3.6万星星，记住里面什么都有](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Image.md "各种imageview效果3.6万星星，记住里面什么都有")||||
-|[uCrop](https://github.com/Yalantis/uCrop "uCrop")|图片裁剪|来自酷安的开源工具||
-|[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view "subsampling-scale-image-view")|类似大内存图片浏览浏览|来自酷安的开源工具||
-|[glide-transformations](https://github.com/wasabeef/glide-transformations "glide-transformations")|基于glide的图形效果  如形状模糊圆形|来自酷安的开源工具||
-|[GlideFaceDetectionTransformation](https://github.com/aryarohit07/GlideFaceDetectionTransformation "GlideFaceDetectionTransformation")|基于glide的人像识别居中效果||
-|[CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView "CustomShapeImageView")|自定义形状的image根据imageview改变|来自酷安的开源工具||
-|[朋友圈图片网格](https://github.com/razerdp/PhotoContents "PhotoContents")|自定义形状的image根据imageview改变|来自酷安的开源工具||
-|[PictureSelector](https://github.com/jiarWang/PictureSelector "图片视频音频选择器")|鸿神推荐|||
-|[LowPoly](https://github.com/zzhoujay/LowPoly "LowPoly风格图片生成器")|网上找的|Low Poly即低多边形，和提高图片精度相反||
+| [CircleImageView](https://github.com/hdodenhof/CircleImageView "CircleImageView")| 圆形imgae|| |
+| [Luban](https://github.com/Curzibn/Luban "Luban") | 图片压缩工具||      |
+| [Matisse](https://github.com/zhihu/Matisse "Matisse") | 图片选择器（知乎）| | |
+| [ImagePicker](https://github.com/jeasonlzy/ImagePicker "ImagePicker")| 图片选择器（仿微信）|| |
+| [RoundedImageView](https://github.com/vinc3m1/RoundedImageView "RoundedImageView")| 强大的圆形imageview | | |
+| [PhotoView](https://github.com/chrisbanes/PhotoView "PhotoView")| 相片视图|| |
+| [GalleryFinal](https://github.com/pengjianbo/GalleryFinal "GalleryFinal")  | 图片选择库|||
+| [各种imageview效果3.6万星星，记住里面什么都有](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Image.md "各种imageview效果3.6万星星，记住里面什么都有") ||| |
+| [uCrop](https://github.com/Yalantis/uCrop "uCrop")| 图片裁剪| 来自酷安的开源工具 ||
+| [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view "subsampling-scale-image-view")| 类似大内存图片浏览浏览| 来自酷安的开源工具||
+| [glide-transformations](https://github.com/wasabeef/glide-transformations "glide-transformations")   | 基于glide的图形效果  如形状模糊圆形 | 来自酷安的开源工具     |    |
+| [GlideFaceDetectionTransformation](https://github.com/aryarohit07/GlideFaceDetectionTransformation "GlideFaceDetectionTransformation")  | 基于glide的人像识别居中效果| |  |
+| [CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView "CustomShapeImageView")| 自定义形状的image根据imageview改变  | 来自酷安的开源工具 | |
+| [朋友圈图片网格](https://github.com/razerdp/PhotoContents "PhotoContents") | 自定义形状的image根据imageview改变  | 来自酷安的开源工具|      |
+| [PictureSelector](https://github.com/jiarWang/PictureSelector "图片视频音频选择器") | 鸿神推荐  |   |    |
+| [LowPoly](https://github.com/zzhoujay/LowPoly "LowPoly风格图片生成器") | 网上找的| Low Poly即低多边形，和提高图片精度相反 |  |
+| [EasyPhotos ](https://github.com/HuanTanSheng/EasyPhotos)|非常好用的图片选择器兼容最新版本Android系统Android权限具有拼图功能| |     |
 
 ## 阴影
-|名称|说明|来源|星星|
-|------------|------------|------------|------------|
-|[ShadowLayout](https://github.com/lihangleo2/ShadowLayout "ShadowLayout")|阴影|||
-|[ArcLayout](https://github.com/florent37/ArcLayout "ArcLayout")|弧形布局带阴影|||
-|[YCEfficient](https://github.com/yangchong211/YCEfficient "YCEfficient")|非常灵活的阴影效果|来自yangchong211||
+| 名称                                                                      | 说明                     | 来源             | 星星 |
+| ------------------------------------------------------------------------- | ------------------------ | ---------------- | ---- |
+| [ShadowLayout](https://github.com/lihangleo2/ShadowLayout "ShadowLayout") | 阴影（比较靠谱功能齐全） |                  |      |
+| [ArcLayout](https://github.com/florent37/ArcLayout "ArcLayout")           | 弧形布局带阴影           |                  |      |
+| [YCEfficient](https://github.com/yangchong211/YCEfficient "YCEfficient")  | 非常灵活的阴影效果       | 来自yangchong211 |      |
 ## 动画
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -166,25 +166,26 @@
 ## 媒体播放
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
-|[PlayerBase](https://github.com/jiajunhui/PlayerBase "PlayerBase")|媒体播放组件|来自酷安开源协议||
-|[ijkplayer](https://github.com/bilibili/ijkplayer "ijkplayer")|基于ffplayer的播放组件(级别有点高)|来自酷安开源协议||
-|[ExoPlayer](https://github.com/google/ExoPlayer "ExoPlayer")|谷歌官网的视频播放开源库|||
-|[Android-FilePicker](https://github.com/DroidNinja/Android-FilePicker "Android-FilePicker")|媒体文件选择|||
-|[GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer "GSYVideoPlayer")|强大的视频播放器|||
-|[PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer "PLDroidPlayer")|七牛的视频播放库|||
-|[Vienna](https://github.com/Curzibn/Vienna "Vienna")|简单的录音api|||
-|[JZVideo](https://github.com/Jzvd/JZVideo "JZVideo")|JZVideo，封装的比较全面，灵活，推荐使用这个|||
-|[YCVideoPlayer](https://github.com/yangchong211/YCVideoPlayer "YCVideoPlayer")|YCVideoPlayer，封装的较为全面，更新频繁|||
-|[StarrySky](https://github.com/EspoirX/StarrySky "StarrySky")|一个看起来挺好用的音频播放器|||
+| [PlayerBase](https://github.com/jiajunhui/PlayerBase "PlayerBase")                          | 媒体播放组件                                                                                                            | 来自酷安开源协议 |      |
+| [ijkplayer](https://github.com/bilibili/ijkplayer "ijkplayer")                              | 基于ffplayer的播放组件(级别有点高)                                                                                      | 来自酷安开源协议 |      |
+| [ExoPlayer](https://github.com/google/ExoPlayer "ExoPlayer")                                | 谷歌官网的视频播放开源库                                                                                                |                  |      |
+| [Android-FilePicker](https://github.com/DroidNinja/Android-FilePicker "Android-FilePicker") | 媒体文件选择                                                                                                            |                  |      |
+| [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer "GSYVideoPlayer")                 | 强大的视频播放器（比较推荐）                                                                                            |                  |      |
+| [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer "PLDroidPlayer")          | 七牛的视频播放库                                                                                                        |                  |      |
+| [Vienna](https://github.com/Curzibn/Vienna "Vienna")                                        | 简单的录音api                                                                                                           |                  |      |
+| [JZVideo](https://github.com/Jzvd/JZVideo "JZVideo")                                        | JZVideo，封装的比较全面，灵活                                                                                           |                  |      |
+| [YCVideoPlayer](https://github.com/yangchong211/YCVideoPlayer "YCVideoPlayer")              | YCVideoPlayer，封装的较为全面，更新频繁（代码封装的好，但是需要验证功能型，需要自己去更新依赖库，已经有些事件没更新了） |                  |      |
+| [StarrySky](https://github.com/EspoirX/StarrySky "StarrySky")                               | 一个看起来挺好用的音频播放器                                                                                            |                  |      |
 
 ## 效果
-|名称|说明|来源|星星|
-|------------|------------|------------|------------|
-|[Effect](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Effect.md "Effect")|3.6万星星，各种模糊效果，各种破碎效果|||
-|[animlogoview](https://github.com/seagazer/animlogoview "animlogoview")|交互炸了系列，炫酷跳动的闪屏Logo标题（鸿神）|||
-|[SuperLike](https://github.com/Qiu800820/SuperLike "SuperLike")|点赞动画、鸿神推荐|||
-|[PlanetView](https://gitee.com/sunlunchang/planet-view.git "类似soul星球")|鸿神推荐（源项目已经被删除，这是我克隆下来放在码云的）|||
-|[AndroidWM](https://github.com/huangyz0918/AndroidWM "水印效果")|水印效果|||
+| 名称                                                                                          | 说明                                                   | 来源 | 星星 |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---- | ---- |
+| [Effect](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Effect.md "Effect") | 3.6万星星，各种模糊效果，各种破碎效果                  |      |      |
+| [animlogoview](https://github.com/seagazer/animlogoview "animlogoview")                       | 交互炸了系列，炫酷跳动的闪屏Logo标题（鸿神）           |      |      |
+| [SuperLike](https://github.com/Qiu800820/SuperLike "SuperLike")                               | 点赞动画、鸿神推荐                                     |      |      |
+| [PlanetView](https://gitee.com/sunlunchang/planet-view.git "类似soul星球")                    | 鸿神推荐（源项目已经被删除，这是我克隆下来放在码云的） |      |      |
+| [AndroidWM](https://github.com/huangyz0918/AndroidWM "水印效果")                              | 水印效果                                               |      |      |
+| [DroidVR](https://github.com/sunfusheng/DroidVR "360°全景图")                                                | 360°全景图是一个值得把玩的应用                                                       |      |      |
 ## 菜单
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -194,10 +195,12 @@
 |------------|------------|------------|------------|
 |[FingerprintIdentify](https://github.com/uccmawei/FingerprintIdentify "FingerprintIdentify")|一个第三方的指纹识别|||
 |[soter](https://github.com/Tencent/soter]"soter")|腾讯指纹识别|||
-## 蓝牙、wifi、热敏打印机等
-|名称|说明|来源|星星|
-|------------|------------|------------|------------|
-|[CommonPrintProvider](https://github.com/GrassQing/CommonPrintProvider "CommonPrintProvider")|通用热敏打印机|||
+## 蓝牙、wifi、热敏打印机、串口等
+| 名称                                                                                                             | 说明           | 来源 | 星星 |
+| ---------------------------------------------------------------------------------------------------------------- | -------------- | ---- | ---- |
+| [CommonPrintProvider](https://github.com/GrassQing/CommonPrintProvider "CommonPrintProvider")                    | 通用热敏打印机 |      |      |
+| [android-serialport-api](https://code.google.com/archive/p/android-serialport-api/  "谷歌的串口通信示例") |     谷歌的串口通信示例 |      |
+
 ## 扫码
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -324,18 +327,7 @@
 #### Androidstudio 查看错误 gradlew compileDebugJavaWithJavac --stacktrace
 #### 安卓首行缩进 \u3000\u3000
 #### 安卓开发通过adb查看当前activity名称 adb shell dumpsys activity | find "mFoc"
-#### mysql记录
 
-
-    truncate table books 清空表 使自增长从1开始
-    
-    SELECT * FROM books WHERE bookId > 10 查询大于某个范围的数
-    
-    SELECT * FROM books GROUP BY type 分组查询
-    
-    queryObject.setMaxResults(number);在hibernate中查询数据返回最大个数时使用此条语句
-    
-    SELECT * FROM apply  ORDER BY  RAND() LIMIT 7 mySql 从数据库随机获取几条数据
 #### Android开发AlertDialog使用笔记
 
 
