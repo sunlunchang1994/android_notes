@@ -10,6 +10,7 @@
 | [hutool](https://github.com/looly/hutool "hutool")                                    | java工具类 很全，适用于java后台     |                              |      |
 | [YCNotification](https://github.com/yangchong211/YCNotification "YCNotification")     | 通知栏工具类 兼容Android8.0         | 来自作者yangchong211         |      |
 | [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize "AndroidAutoSize") | 屏幕适配方案终极版                  | 今日头条屏幕适配方案的升级版 |      |
+| [AndroidColorX](https://github.com/JorgeCastilloPrz/AndroidColorX.git "AndroidColorX") | 通过提供不同颜色格式(RGB，HSV，CYMK等)的转换功能，它使开发变得更加轻松。||      |
 
 ## TextView
 |名称|说明|来源|星星|
@@ -44,6 +45,7 @@
 |[RepeatLayoutManager](https://github.com/jiarWang/RepeatLayoutManager "循环RecyclerView")|鸿神推荐|||
 |[parallaxdecoration](https://github.com/seagazer/parallaxdecoration "类似游戏背景的RecyclerView")|鸿神推荐，视觉差滚动|||
 |[Skeleton](https://github.com/ethanhua/Skeleton "饿了么加载等待填充页面")|鸿神推荐|||
+|[ExpandableLayout](https://github.com/skydoves/ExpandableLayout.git "ExpandableLayout")|可展开的布局，显示带有指示器的两级布局。|||
 
 ## 按钮
 |名称|说明|来源|星星|
@@ -63,8 +65,11 @@
 |[BasePopup](https://github.com/razerdp/BasePopup "BasePopup")|基础的PopupWindows|功能强大，都是基础实现，拓展性强|||
 |[EasyFloat](https://github.com/princekin-f/EasyFloat "EasyFloat")|悬浮窗框架|浮窗从未如此简单|来自github首页推荐||
 |[YCDialog](https://github.com/yangchong211/YCDialog "YCDialog")|对话款|Android中所有场景的对话款都有|来自yangchong211||
+|[RateBottomSheet](https://github.com/lopspower/RateBottomSheet.git "RateBottomSheet")|跳转到应用商店为我们的APP打分提示对话款|||
+|[PowerMenu](https://github.com/skydoves/PowerMenu.git "PowerMenu")|PowerMenu是一个现代化且完全可自定义的弹出菜单，可以显示在布局之上。（非常好用）|skydoves|1K|
+|[PowerSpinner](https://github.com/skydoves/PowerSpinner.git "PowerSpinner")|一个轻量级的下拉弹出式微调器，完全可以使用箭头和动画进行自定义。（非常好用）|skydoves|1K|
 
-## 滚轮、选择器
+## 滚轮、选择器、进度
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
 |[banner](https://github.com/youth5201314/banner "banner")|轮播图控件|来自酷安的开源工具||
@@ -74,6 +79,11 @@
 |[pickerview](https://github.com/jaaksi/pickerview "pickerview")|多种轮滚2019-08-09|||
 |[PickerView](https://github.com/duanhong169/PickerView "PickerView")|多种轮滚2019-08-09|||
 |[Android-PickerView](https://github.com/Bigkoo/Android-PickerView "Android-PickerView")|滚轮选择器|||
+|[TimeRangePicker](https://github.com/Droppers/TimeRangePicker.git "TimeRangePicker")|时间跨度选择工具，很逼真，效果很棒|||
+|[Donut](https://github.com/futuredapp/donut.git "Donut")|这个一个可以展示多个数据集的圆弧形控件，具有精细的颗粒控制、间隙功能、动画选项以及按比例缩放其值的功能|||
+|[colorpicker-compose](https://github.com/skydoves/colorpicker-compose.git "colorpicker-compose")|颜色选择器，还可以从图片中吸取颜色|skydoves||
+|[ColorPickerView](https://github.com/skydoves/ColorPickerView.git "ColorPickerView")|跟上面一样的 开发语言不同|skydoves||
+|[ProgressView](https://github.com/skydoves/ProgressView.git "ProgressView")|精致灵活的进度条，可通过动画完全自定义。skydoves||
 ## 布局
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -101,6 +111,9 @@
 |[ConsecutiveScrollerLayout](https://github.com/donkingliang/ConsecutiveScroller "ConsecutiveScrollerLayout")|可以同时嵌套多个滑动布局(RecyclerView、WebView、ScrollView等)和普通控件|||
 |[SwipePanel](https://github.com/Blankj/SwipePanel "策划控件")|很优雅的策划控件|Blankj||
 |[PanelSwitchHelper](https://github.com/YummyLau/PanelSwitchHelper "输入法平滑过渡")|输入法与功能面板（比如表情面板/更多选项面板等）的切换过程中保持平滑过渡|Github||
+|[hauler](https://github.com/futuredapp/hauler.git "hauler")|滑动、拖动消除activity，类似最近任务效果效果|Github||
+|[Balloon](https://github.com/skydoves/Balloon.git "Balloon")|点击弹出小框提示工具，在一些点击视图提示场景非常好用|skydoves||
+|[AndroidBottomBar](https://github.com/skydoves/AndroidBottomBar.git "AndroidBottomBar")|轻量级的底部导航视图，可通过指示器和动画完全自定义。|skydoves||
 ## ViewPager、画廊、tableView
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -140,12 +153,26 @@
 |[AndroidViewAnimations]( https://github.com/daimajia/AndroidViewAnimations "AndroidViewAnimations")|视图动画5000多赞||5k|
 |[Android-SpinKit](https://github.com/ybq/Android-SpinKit "Android-SpinKit")|加载动画 loadding|||
 |[lottie-android](https://github.com/airbnb/lottie-android "lottie-android")|Android中很高级的动画|||
+|[LiquidSwipe](https://github.com/Chrisvin/LiquidSwipe "LiquidSwipe")|很棒的ViewPager库，显示波浪的滑动动画，类似液体的显示过渡|Chrisvin||
+|[FlipTabs](https://github.com/Chrisvin/FlipTabs.git "FlipTabs")|很棒的RadioGroup、RadioButton库，切换时有动画效果|Chrisvin||
+|[ConcentricOnboarding](https://github.com/Chrisvin/ConcentricOnboarding.git "ConcentricOnboarding")|这事一个跟上面效果类似的欢迎页切换效果，过渡动画很nice|Chrisvin||
+|[EasyReveal](https://github.com/Chrisvin/EasyReveal.git "EasyReveal")|这是一个提供reveal动画效果的库，它的厉害之处在于可以提供不同尺寸、不同形状的reveal动画，并且还可以在定义它在屏幕任意位置开始和结束动画。|Chrisvin||
+|[RubberPicker](https://github.com/Chrisvin/RubberPicker.git "RubberPicker")|这是一个带动画的进度条，Q弹效果|Chrisvin||
+|[Flourish](https://github.com/skydoves/Flourish.git "Flourish")|Flourish提供了一个炫酷的方式来显示或者隐藏一个布局|||
+|[AestheticDialogs](https://github.com/gabriel-TheCode/AestheticDialogs.git "AestheticDialogs")|这是一个美观而时尚的AlterDialog库，目前可支持六种不同的对话框|||
+|[AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar.git "AnimatedBottomBar")|这是一个带动画的底部导航栏库|||
+|[TransformationLayout](https://github.com/skydoves/TransformationLayout.git "TransformationLayout")|这是一个用于Activity或者Fragment 以及View切换的过渡动画库，效果非常炫，它使用Material Design的运动系统过渡模式来创建变形动画|skydoves||
+|[AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar.git "AnimatedBottomBar")|这是一个带动画的底部导航栏库|||
+|[Orbital](https://github.com/skydoves/Orbital.git "Orbital")|Jetpack 合成动画库，允许您实现共享元素过渡等动画。|skydoves||
 |[各种优秀的安卓动画，3.6万星星，什么复杂的都有](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Animation.md "各种优秀的安卓动画，3.6万星星，什么复杂的都有")||||
 ## 图表
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
 |[MPAndroidChart](https://p.codekk.com/detail/Android/PhilJay/MPAndroidChart "MPAndroidChart")|强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、网状图等；支持图的拖拽缩放；支持 Android 2.2 以上，支持横纵轴缩放，多指缩放，展现动画、高亮、保存到 sdcard、从文件读取图表|||
 |[甜甜圈饼状图](https://github.com/razerdp/AnimatedPieView "AnimatedPieView")|各种样式饼状图|||
+|[ThinkMap](https://github.com/owant/ThinkMap.git "ThinkMap")|思维导图的开源控件|||
+|[android-thinkmap-treeview](https://github.com/guaishouN/android-thinkmap-treeview.git "android-thinkmap-treeview")|推荐用这个|||
+|[CurveGraphView](https://github.com/swapnil1104/CurveGraphView.git "CurveGraphView")|CurveGraphView 是一个带有炫酷动画统计图表库，除了性能出色并具有许多样式选项之外，该库还支持单个平面内的多个线图。多个折线图对于比较不同股票，共同基金，加密货币等的价格非常有用。|||
 ## Fragment
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -178,14 +205,18 @@
 | [StarrySky](https://github.com/EspoirX/StarrySky "StarrySky")                               | 一个看起来挺好用的音频播放器                                                                                            |                  |      |
 
 ## 效果
-| 名称                                                                                          | 说明                                                   | 来源 | 星星 |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---- | ---- |
-| [Effect](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Effect.md "Effect") | 3.6万星星，各种模糊效果，各种破碎效果                  |      |      |
-| [animlogoview](https://github.com/seagazer/animlogoview "animlogoview")                       | 交互炸了系列，炫酷跳动的闪屏Logo标题（鸿神）           |      |      |
-| [SuperLike](https://github.com/Qiu800820/SuperLike "SuperLike")                               | 点赞动画、鸿神推荐                                     |      |      |
-| [PlanetView](https://gitee.com/sunlunchang/planet-view.git "类似soul星球")                    | 鸿神推荐（源项目已经被删除，这是我克隆下来放在码云的） |      |      |
-| [AndroidWM](https://github.com/huangyz0918/AndroidWM "水印效果")                              | 水印效果                                               |      |      |
-| [DroidVR](https://github.com/sunfusheng/DroidVR "360°全景图")                                                | 360°全景图是一个值得把玩的应用                                                       |      |      |
+|名称|说明|来源|星星|
+|------------|------------|------------|------------|
+| [Effect](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Effect.md "Effect") | 3.6万星星，各种模糊效果，各种破碎效果| |  |
+| [animlogoview](https://github.com/seagazer/animlogoview "animlogoview")  | 交互炸了系列，炫酷跳动的闪屏Logo标题（鸿神） |    |   |
+| [SuperLike](https://github.com/Qiu800820/SuperLike "SuperLike")| 点赞动画、鸿神推荐  |   |   |
+| [PlanetView](https://gitee.com/sunlunchang/planet-view.git "类似soul星球")  | 鸿神推荐（源项目已经被删除，这是我克隆下来放在码云的）|  | |
+| [AndroidWM](https://github.com/huangyz0918/AndroidWM "水印效果")  | 水印效果  |   |    |
+| [DroidVR](https://github.com/sunfusheng/DroidVR "360°全景图")| 360°全景图是一个值得把玩的应用| |     |
+| [landscapist](https://github.com/skydoves/landscapist.git "landscapist")| 类似Glide图片加载，但是效果丰富，切具有多种切换效果，具有冲图片中提取主要颜色效果，韩国人编写(此库支持跟踪图像加载状态、编写自定义实现和一些有用的动画，如交叉淡入淡出、模糊转换和循环显示。此外，使用图像插件，您可以更轻松，更快速地配置和附加图像加载行为。)| skydoves|    1.3K |
+| [AndroidVeil](https://github.com/skydoves/AndroidVeil.git "AndroidVeil")| 一种简单，灵活的方式来实现安卓的加载数据时界面默认填充的效果、闪闪发光的效果。| skydoves|    1.3K |
+| [ElasticViews](https://github.com/skydoves/ElasticViews.git "ElasticViews")| 弹性点击效果| skydoves|    0.765K |
+| [Rainbow](https://github.com/skydoves/Rainbow.git "Rainbow")| 在Android代码中用于应用渐变、着色和着色| skydoves|    0.421K |
 ## 菜单
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -218,6 +249,7 @@
 |[RxEasyHttp](http://p.codekk.com/detail/Android/zhou-you/RxEasyHttp "RxEasyHttp")|优秀的网络访问框架|||
 |[AwesomeDownloader-Android](https://github.com/AManCallJiang/AwesomeDownloader-Android "AwesomeDownloader-Android")|基于OkHttp和kotlin协程实现的下载器|||
 |[NettyIM](https://github.com/mrchengwenlong/NettyIM "NettyIM")|基于Netty+TCP+Protobuf+okhttp设计模式的聊天SDK|||
+|[sandwich](https://github.com/skydoves/sandwich.git "sandwich")|基于retrofit封装的网络请求工具|sandwich||
 ## 数据库、存储
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -240,6 +272,11 @@
 |------------|------------|------------|------------|
 |[AoE](https://github.com/didi/AoE/blob/master/Android/README.md "AoE")|手写识别图像转文字|||
 |[filament](https://github.com/google/filament "filament")|谷歌的虚拟现实相关|||
+|[Pokedex-AR](https://github.com/skydoves/Pokedex-AR.git "Pokedex-AR")|Pokedex-AR是一款基于AR，现代安卓应用技术栈和MVVM架构的小型演示应用程序。本项目侧重于 ARCore 和场景形态。还可以从网络获取数据，并通过存储库模式从数据库中集成持久化数据。|||
+## 设计模式、框架
+|名称|说明|来源|星星|
+|------------|------------|------------|------------|
+|[Pokedex](https://github.com/skydoves/Pokedex.git "Pokedex")|遵循谷歌mvvm设计模式框架，kotlin语言编写，Material Design设计风格，目前发现的唯一一个好用的框架|skydoves||
 ## 其他工具类
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
@@ -306,6 +343,8 @@
 |[hannesa2](https://github.com/hannesa2 "hannesa2")|国外大佬，谷歌VR等demo|||
 |[AndroidDevTools](https://github.com/inferjay/AndroidDevTools "inferjay")|Android开发工具，PhotoShop等等工具|||
 |[yangchong211](https://github.com/yangchong211 "yangchong211")|项目非常实用|逛github时看到的||
+|[Chrisvin](https://github.com/Chrisvin "Chrisvin")|各种各样的带动画效果的控件，非常炫酷|逛github时看到的||
+|[skydoves](https://github.com/skydoves "skydoves")|各种框架、布局灵动效果、动画、加载等都有，代码编写的非常棒（此文上下文中收集了多个该开发者的开源项目）好东西太多了，讲不完||
 
 ## 各大公司
 |名称|说明|来源|星星|
@@ -319,6 +358,9 @@
 |[OuNews](https://github.com/oubowu/OuNews "OuNews")|新闻客户端提供接口|||
 |[AndroidOfferKiller](https://github.com/Blankj/AndroidOfferKiller "AndroidOfferKiller")|Offer收割机|||
 |[Android-Daily-Interview](https://github.com/Moosphan/Android-Daily-Interview "Android-Daily-Interview")|Android&Java知识面试宝典|||
+|[Android-Daily-Interview](https://github.com/guaishouN/Android-Daily-Interview.git "Android-Daily-Interview")|每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！|||
+|[Android-Daily-Interview](https://github.com/skydoves/android-developer-roadmap/blob/main/README_CN.md "Android-Daily-Interview")|Android Developer Roadmap 2022 建议了学习了解 Android 开发的学习路线。
+你可以按照路线图中的路径去学习 Android 开发。 每个节点都表示 Android 系统、Android SDK 和常用库的相关概念。|skydoves|4.9|
 ## 文章
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
