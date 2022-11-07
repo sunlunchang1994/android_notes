@@ -278,7 +278,7 @@
 |------------|------------|------------|------------|
 |[Pokedex](https://github.com/skydoves/Pokedex.git "Pokedex")|遵循谷歌mvvm设计模式框架，kotlin语言编写，Material Design设计风格，目前发现的唯一一个好用的框架|skydoves||
 ## 其他工具类
-|名称| 说明  |来源|星星|
+|名称| 说明                              |来源|星星|
 |------------|---------------------------------|------------|------------|
 |[ShortcutBadger](https://github.com/leolin310148/ShortcutBadger "ShortcutBadger")| 桌面角标神器（不用找了，就这个兼容型最好，星星最多）      |||
 |[zt-zip](https://github.com/zeroturnaround/zt-zip "zt-zip")| zip压缩                           |||
@@ -301,6 +301,7 @@
 |[基于Xposed脱壳工具-ucrack](https://gitee.com/virjar/ucrack.git "基于Xposed脱壳工具-ucrack")| 来自码云排行                          |||
 |[camera-samples](https://github.com/android/camera-samples "camera-samples")| Android官方的相机演示程序                |||
 |[MaterialFiles](https://github.com/zhanghai/MaterialFiles.git "MaterialFiles")| Material文件选择器                   |||
+|[VirtualXposed](https://github.com/android-hacker/VirtualXposed "VirtualXposed")| 虚拟框架VirtualXposed                            |||
 
 ## 其他工具集合（别人收集的）
 |名称|说明|来源|星星|
