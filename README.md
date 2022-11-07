@@ -278,28 +278,29 @@
 |------------|------------|------------|------------|
 |[Pokedex](https://github.com/skydoves/Pokedex.git "Pokedex")|遵循谷歌mvvm设计模式框架，kotlin语言编写，Material Design设计风格，目前发现的唯一一个好用的框架|skydoves||
 ## 其他工具类
-|名称|说明|来源|星星|
-|------------|------------|------------|------------|
-|[ShortcutBadger](https://github.com/leolin310148/ShortcutBadger "ShortcutBadger")|桌面角标神器（不用找了，就这个兼容型最好，星星最多）|||
-|[zt-zip](https://github.com/zeroturnaround/zt-zip "zt-zip")|zip压缩|||
-|[AlipayZeroSdk](https://github.com/fython/AlipayZeroSdk "AlipayZeroSdk")|支付宝转账界面库|||
-|[Xpatch](https://github.com/WindySha/Xpatch "Xpatch")|打桩app（天秀）|||
-|[retrofit-mock](https://github.com/JeremyLiao/retrofit-mock "retrofit-mock")|Retrofit mock 利器，解决接口联调没有数据的烦恼。|||
-|[camerakit-android](https://github.com/CameraKit/camerakit-android "camerakit-android")|自定义相机拍照录像|||
-|[StopApp](https://github.com/XYScience/StopApp "StopApp")|停止app|||
-|[walle](https://github.com/Meituan-Dianping/walle "walle")|打包神器|||
-|[ProcessPhoenix](https://github.com/JakeWharton/ProcessPhoenix "ProcessPhoenix")|重新启动应用程序|||
-|[CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash "CustomActivityOnCrash")|自定义activity异常处理|||
-|[RxTool-Wiki](https://github.com/tamsiree/RxTool/wiki/RxTool-Wiki "RxTool-Wiki")|RxUtils工具类|||
-|[BaseProject](https://github.com/fly803/BaseProject "BaseProject")|基础项目结构，包含多个优秀工具类|||
-|[Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary "Android-ZBLibrary")|比较优秀的mvp框架，包含多个组件，万能自定义view|||
-|[Android官方最佳实例](https://github.com/android "Android官方最佳实例")|Android官方最佳实例|||
-|[好玩的东西](https://github.com/Blankj/awesome-comment "奇葩快速转换工具")|Blankj|Blankj||
-|[Android开发规范](https://github.com/Blankj/AndroidStandardDevelop "Android开发规范")|Blankj|Blankj||
-|[基于Xposed脱壳工具](https://gitee.com/Mkingm/MDEX.git "基于Xposed脱壳工具")|来自码云排行|||
-|[基于Xposed脱壳工具](https://gitee.com/Mkingm/MDEX.git "基于Xposed脱壳工具")|来自码云排行|||
-|[基于Xposed脱壳工具-ucrack](https://gitee.com/virjar/ucrack.git "基于Xposed脱壳工具-ucrack")|来自码云排行|||
-|[camera-samples](https://github.com/android/camera-samples "camera-samples")|Android官方的相机演示程序|||
+|名称| 说明  |来源|星星|
+|------------|---------------------------------|------------|------------|
+|[ShortcutBadger](https://github.com/leolin310148/ShortcutBadger "ShortcutBadger")| 桌面角标神器（不用找了，就这个兼容型最好，星星最多）      |||
+|[zt-zip](https://github.com/zeroturnaround/zt-zip "zt-zip")| zip压缩                           |||
+|[AlipayZeroSdk](https://github.com/fython/AlipayZeroSdk "AlipayZeroSdk")| 支付宝转账界面库                        |||
+|[Xpatch](https://github.com/WindySha/Xpatch "Xpatch")| 打桩app（天秀）                       |||
+|[retrofit-mock](https://github.com/JeremyLiao/retrofit-mock "retrofit-mock")| Retrofit mock 利器，解决接口联调没有数据的烦恼。 |||
+|[camerakit-android](https://github.com/CameraKit/camerakit-android "camerakit-android")| 自定义相机拍照录像                       |||
+|[StopApp](https://github.com/XYScience/StopApp "StopApp")| 停止app                           |||
+|[walle](https://github.com/Meituan-Dianping/walle "walle")| 打包神器                            |||
+|[ProcessPhoenix](https://github.com/JakeWharton/ProcessPhoenix "ProcessPhoenix")| 重新启动应用程序                        |||
+|[CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash "CustomActivityOnCrash")| 自定义activity异常处理                 |||
+|[RxTool-Wiki](https://github.com/tamsiree/RxTool/wiki/RxTool-Wiki "RxTool-Wiki")| RxUtils工具类                      |||
+|[BaseProject](https://github.com/fly803/BaseProject "BaseProject")| 基础项目结构，包含多个优秀工具类                |||
+|[Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary "Android-ZBLibrary")| 比较优秀的mvp框架，包含多个组件，万能自定义view     |||
+|[Android官方最佳实例](https://github.com/android "Android官方最佳实例")| Android官方最佳实例                   |||
+|[好玩的东西](https://github.com/Blankj/awesome-comment "奇葩快速转换工具")| Blankj                          |Blankj||
+|[Android开发规范](https://github.com/Blankj/AndroidStandardDevelop "Android开发规范")| Blankj                          |Blankj||
+|[基于Xposed脱壳工具](https://gitee.com/Mkingm/MDEX.git "基于Xposed脱壳工具")| 来自码云排行                          |||
+|[基于Xposed脱壳工具](https://gitee.com/Mkingm/MDEX.git "基于Xposed脱壳工具")| 来自码云排行                          |||
+|[基于Xposed脱壳工具-ucrack](https://gitee.com/virjar/ucrack.git "基于Xposed脱壳工具-ucrack")| 来自码云排行                          |||
+|[camera-samples](https://github.com/android/camera-samples "camera-samples")| Android官方的相机演示程序                |||
+|[MaterialFiles](https://github.com/zhanghai/MaterialFiles.git "MaterialFiles")| Material文件选择器                   |||
 
 ## 其他工具集合（别人收集的）
 |名称|说明|来源|星星|
