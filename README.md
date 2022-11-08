@@ -259,9 +259,10 @@
 |[android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher "android-database-sqlcipher")|很牛逼的SQL|||
 |[FastSharedPreferences](https://github.com/JeremyLiao/FastSharedPreferences "FastSharedPreferences")|LiveEventBus同一开发者|||
 ## Root
-|名称|说明|来源|星星|
-|------------|------------|------------|------------|
-|[libsuperuser](https://github.com/Chainfire/libsuperuser/ "libsuperuser")|root权限使用库|||
+|名称| 说明            |来源|星星|
+|------------|---------------|------------|------------|
+|[libsuperuser](https://github.com/Chainfire/libsuperuser/ "libsuperuser")| root权限使用库     |||
+|[libsu](https://github.com/topjohnwu/libsu "libsu")| Magisk的开发者开发的 |||
 ## 游戏
 |名称|说明|来源|星星|
 |------------|------------|------------|------------|
