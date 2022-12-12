@@ -303,6 +303,8 @@
 |[camera-samples](https://github.com/android/camera-samples "camera-samples")| Android官方的相机演示程序                |||
 |[MaterialFiles](https://github.com/zhanghai/MaterialFiles.git "MaterialFiles")| Material文件选择器                   |||
 |[VirtualXposed](https://github.com/android-hacker/VirtualXposed "VirtualXposed")| 虚拟框架VirtualXposed                            |||
+|[ExFilePicker](https://github.com/bartwell/ExFilePicker.git "ExFilePicker")| 文件选择                            |||
+bartwell:exfilepicker
 
 ## 其他工具集合（别人收集的）
 |名称|说明|来源|星星|
