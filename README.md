@@ -350,6 +350,7 @@ bartwell:exfilepicker
 |[yangchong211](https://github.com/yangchong211 "yangchong211")|项目非常实用|逛github时看到的||
 |[Chrisvin](https://github.com/Chrisvin "Chrisvin")|各种各样的带动画效果的控件，非常炫酷|逛github时看到的||
 |[skydoves](https://github.com/skydoves "skydoves")|各种框架、布局灵动效果、动画、加载等都有，代码编写的非常棒（此文上下文中收集了多个该开发者的开源项目）好东西太多了，讲不完||
+|[AndroidIndex](https://github.com/getActivity/AndroidIndex "AndroidIndex")|开发了多个Android项目，具有城市编码，Android教程，Android版本，资源汇总||
 
 ## 各大公司
 |名称|说明|来源|星星|
